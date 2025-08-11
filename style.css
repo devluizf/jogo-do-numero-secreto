@@ -27,8 +27,8 @@ body::before {
 }
 
 .container {
-    width: 80%;
-    height: 80%;
+    width: 1200px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -50,7 +50,7 @@ body::before {
 
 .container__informacoes {
     flex: 1;
-    padding: 3rem;
+    padding: 20px;
 }
 
 .container__botao {
@@ -61,7 +61,7 @@ body::before {
     font-size: 24px;
     font-weight: 700;
     border: none;
-    margin-top: 2rem;
+    margin-top: 16px;
 }
 
 .container__texto {
@@ -93,7 +93,7 @@ body::before {
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
-    padding-bottom: 3rem;
+    /* padding-bottom: 1rem; */
 }
 
 p,
