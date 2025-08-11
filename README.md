@@ -22,7 +22,7 @@ Jogo para adivinhar um número secreto. Feito no curso da Alura para aprender so
 
 ## Imagem do jogo
 
-![Screenshot](screenshot.png) <!-- Adicione uma imagem do jogo aqui, se desejar -->
+![Screenshot](/img/screenshot.png) <!-- Adicione uma imagem do jogo aqui, se desejar -->
 
 ## Créditos
 
